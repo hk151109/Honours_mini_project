@@ -1,0 +1,15 @@
+Classification Report for ResNet50V2_finetuned
+============================================================
+
+Test Accuracy: 98.37%
+AUC Score: 0.9985
+Average Precision: 0.9988
+
+              precision    recall  f1-score   support
+
+  nowildfire       0.98      0.98      0.98      2820
+    wildfire       0.99      0.98      0.99      3480
+
+    accuracy                           0.98      6300
+   macro avg       0.98      0.98      0.98      6300
+weighted avg       0.98      0.98      0.98      6300

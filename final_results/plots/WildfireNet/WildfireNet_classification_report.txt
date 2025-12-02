@@ -1,0 +1,15 @@
+Classification Report for WildfireNet
+============================================================
+
+Test Accuracy: 98.84%
+AUC Score: 0.9991
+Average Precision: 0.9993
+
+              precision    recall  f1-score   support
+
+  nowildfire       0.98      0.99      0.99      2820
+    wildfire       0.99      0.99      0.99      3480
+
+    accuracy                           0.99      6300
+   macro avg       0.99      0.99      0.99      6300
+weighted avg       0.99      0.99      0.99      6300

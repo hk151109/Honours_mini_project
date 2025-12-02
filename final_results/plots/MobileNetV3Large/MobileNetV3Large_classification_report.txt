@@ -1,0 +1,15 @@
+Classification Report for MobileNetV3Large
+============================================================
+
+Test Accuracy: 85.83%
+AUC Score: 0.8967
+Average Precision: 0.8401
+
+              precision    recall  f1-score   support
+
+  nowildfire       0.86      0.81      0.84      2820
+    wildfire       0.86      0.89      0.87      3480
+
+    accuracy                           0.86      6300
+   macro avg       0.86      0.85      0.86      6300
+weighted avg       0.86      0.86      0.86      6300

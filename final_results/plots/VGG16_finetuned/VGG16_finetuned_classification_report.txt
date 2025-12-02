@@ -1,0 +1,15 @@
+Classification Report for VGG16_finetuned
+============================================================
+
+Test Accuracy: 99.10%
+AUC Score: 0.9997
+Average Precision: 0.9997
+
+              precision    recall  f1-score   support
+
+  nowildfire       0.98      1.00      0.99      2820
+    wildfire       1.00      0.99      0.99      3480
+
+    accuracy                           0.99      6300
+   macro avg       0.99      0.99      0.99      6300
+weighted avg       0.99      0.99      0.99      6300
