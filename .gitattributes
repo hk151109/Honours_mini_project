@@ -1,4 +1,6 @@
 *.keras filter=lfs diff=lfs merge=lfs -text
-output/models/*.keras filter=lfs diff=lfs merge=lfs -text
-CustomCNNOutput/models/*.keras filter=lfs diff=lfs merge=lfs -text
-FireNetCNNOutput/models/*.keras filter=lfs diff=lfs merge=lfs -text
+PretrainedModelsOutput/models/*.keras filter=lfs diff=lfs merge=lfs -text
+WildfireNet/WildfireNetOutput/models/*.keras filter=lfs diff=lfs merge=lfs -text
+FireNet/FireNetOutput/models/*.keras filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
