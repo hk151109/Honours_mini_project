@@ -1,0 +1,13 @@
+[00:00:01.139] Server  LOG      ✓ Ready in 692ms
+[00:00:04.199] Server  LOG      ○ Compiling / ...
+[00:00:12.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:12.475] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:12.476] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:12.476] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764785822572}
+[00:00:36.821] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:00:36.821] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:03:02.618] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:03:02.618] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:04:13.124] Server  LOG      ✓ Compiled in 77ms
+[00:17:12.628] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:17:12.629] Browser LOG     THREE.WebGLRenderer: Context Lost.

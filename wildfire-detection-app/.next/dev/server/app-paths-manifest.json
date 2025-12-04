@@ -1,0 +1,4 @@
+{
+  "/api/sentinel-image/route": "app/api/sentinel-image/route.js",
+  "/page": "app/page.js"
+}
